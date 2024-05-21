@@ -1,2 +1,2 @@
 # beerdistribution-microservice
-This is a beer distribution Microservice done with Spring Boot, Spring MVC and RESTful Architecture
+This is a Spring MVC Rest Service producer for a beer service
